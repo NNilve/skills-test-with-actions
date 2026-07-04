@@ -49,7 +49,7 @@ def test_get_nth_fibonacci_zero():
 def test_get_nth_fibonacci_one():
     """Test with n=1."""
     # Arrange
-    n = 1``
+    n = 1
 
     # Act
     result = get_nth_fibonacci(n)
